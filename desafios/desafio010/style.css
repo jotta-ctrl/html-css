@@ -1,0 +1,105 @@
+@charset "UTF 8";
+
+@font-face {
+    font-family: 'droid';
+    src: url(fontes/idroid.otf) format(opentype), url(fontes/idroid.otf) format(truetype);
+}
+
+body {
+    background-color: #84e1ad;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.618);
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+div#d1 {
+    height: auto;
+    width: auto;
+}
+
+div#d2 {
+    height: auto;
+    width: auto;
+    margin: 1px 20px 0px 20px;
+}
+
+div#d3 {
+    background-color: #185735;
+}
+
+div#sub {
+    margin:  20px 1px 1px 1px;
+}
+
+header {
+    background-image: linear-gradient(to bottom, #3cd882, #195734);
+    color: white;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.345);
+}
+
+header > h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+nav {
+    text-align: left;
+}
+
+nav#n2 {
+
+}
+
+nav > a {
+    font-weight: normal;
+    text-decoration: none;
+    color: white;
+}
+
+nav > a:hover {
+    background-image: linear-gradient(to bottom, #3cd88294, #195734);
+}
+
+main {
+    background-color: white;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.345);
+}
+
+footer {
+    background-color: #195734;
+}
+
+h1 {
+    font-family: 'droid';
+    text-align: left;
+    color: #266443;
+    margin: 0px;
+    padding: 10px;
+}
+
+h2 {
+    background-image: linear-gradient(to right, #c8ecd8, #fdfdfd);
+    font-family: 'droid';
+    text-align: left;
+    color: #266443;
+}
+
+h3 {
+    background-color: #2fa866;
+    color: white;
+    text-align: left;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #195734;
+}
+
+b {
+    color: #195734;
+}

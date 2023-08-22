@@ -1,0 +1,21 @@
+|Depreciada     |	|Descrição|	                                                    |   |Tag Substituta                         |
+
+|<applet>       |	|Insere um applet na página                                         |	|<object>                               |
+
+|<basefont>     |	|Configura os estilos de fonte                                      |	|Estilos de fonte CSS                   |
+
+|<center>       |	|Centraliza os elementos internos à tag                             |	|Estilo CSS. Ex:” text-align:Center"    |
+
+|<dir>          |	|Lista de diretórios                                                |	|<ul>                                   |
+
+|<u>            |	|Underline                                                          |	|Estilos de texto CSS                   |
+
+|<strike> e <s> |	|Tacha o texto envolto	                                            |   |Estilos de texto CSS                   |
+
+|<font>         |	|Configura estilo de fonte para o texto envolto                     |	|Estilos de fonte CSS                   |
+
+|<isindex>      |	|Adiciona campo de pesquisa                                         |   |<form>                                 |
+
+|<menu>         |	|Lista de menus                                                     |	|<ul>                                   |
+
+|<acronym>      |	|Cria uma abreviação com dica do que significa                      |	|<abbr>                                 |
